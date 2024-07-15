@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sergio Cuadros / Site Title"
+title                    : "Sergio Cuadros / Principal"
 title_separator          : "-"
 name                     : &name "Sergio Cuadros"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Estudiante de Economía en la PUCP."
   location         : "Lima, Perú"
-  employer         : "Pontificia Universidad Católica del Perú"
+  employer         : "Pontificia Universidad \nCatólica del Perú"
   uri              : # URL
   email            : "s.cuadros@pucp.edu.pe" 
 
