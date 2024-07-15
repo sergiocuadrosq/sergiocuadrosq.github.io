@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Estudiante de Economía en la PUCP."
   location         : "Lima, Perú"
-  employer         : "PUCP"
+  employer         : # "PUCP"
   uri              : # URL
   email            : "s.cuadros@pucp.edu.pe" 
 
