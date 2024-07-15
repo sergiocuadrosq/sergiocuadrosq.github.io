@@ -10,9 +10,9 @@
 locale                   : "es"
 title                    : "Sergio Cuadros"
 title_separator          : "-"
-name                     : &name "Sergio Cuadros"
+name                     : &name "Sergio Caleb Cuadros Quezada"
 description              : &description "personal description"
-url                      : https://sergiocuadrosq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sergiocuadrosq.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sergiocuadrosq/sergiocuadrosq.github.io"
 
@@ -22,9 +22,9 @@ repository               : "sergiocuadrosq/sergiocuadrosq.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sergio Cuadros"
-  pronouns         : # example: "she/her"  
-  bio              : "Estudiante de Economía en la PUCP."
+  name             : "Sergio Caleb Cuadros Quezada"
+  pronouns         : "he/him"  
+  bio              : "Estudiante de Economía en la PUCP. Apasionado por la programación y con gran interés en estadística y datos. Inglés avanzado."
   location         : "Lima, Perú"
   employer         : # "PUCP"
   uri              : # URL
