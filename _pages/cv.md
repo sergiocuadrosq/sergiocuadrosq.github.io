@@ -15,5 +15,5 @@ redirect_from:
 
 
 
-Si el lector de archivos PDF incorporado no funciona correctamente, puede acceder <u><a href="https://sergiocuadrosq.github.io/files/CV_Sergio_Cuadros.pdf">aquí</a></u> 
+Si el lector de archivos PDF incorporado no funciona correctamente, puede acceder <u><a href="https://sergiocuadrosq.github.io/files/CV_Sergio_Cuadros.pdf">aquí</a></u>: 
 <br/>
