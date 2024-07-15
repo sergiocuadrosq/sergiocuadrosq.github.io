@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "es"
 title                    : "Sergio Cuadros"
 title_separator          : "-"
 name                     : &name "Sergio Cuadros"
