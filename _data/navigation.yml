@@ -1,22 +1,20 @@
 # main links links
 main:
   - title: "Experiencia"
-    url: /publications/
+    url: /experiencia/
 
   - title: "Proyectos"
-    url: /talks/    
+    url: /proyectos/    
 
   - title: "Cursos"
-    url: /teaching/    
+    url: /cursos/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Portafolio"
+    url: /portafolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /post/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
