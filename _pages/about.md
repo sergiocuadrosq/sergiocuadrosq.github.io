@@ -10,6 +10,19 @@ redirect_from:
 Hola, mi nombre es Sergio Cuadros, estudiante de Economía en la Pontificia Universidad Católica del Perú [(PUCP)](https://www.pucp.edu.pe). Actualmente me encuentro en el octavo ciclo. He creado este sitio web para mostrar más sobre mí y publicar algunos trabajos que realizo en la universidad así como en cursos y también algunos proyectos personales.
 Pueden contactarme a través de mi correo personal [(s.cuadros@pucp.edu.pe)](mailto:s.cuadros@pucp.edu.pe). También pueden contactarme a través de LinkedIn.
 
+Sobre mis intereses
+------
+La carrera de Economía en la PUCP me ha brindado una visión amplia sobre varios campos de trabajo. En particular, el uso de herramientas estadísticas y sus aplicaciones, como en los cursos de econometría, han desarrollado en mí un interés por la estadística en sí y sus aplicaciones. Por otro lado, también hemos desarrollado varios análisis con la ayuda del uso de bases de datos, lo cual ha despertado interés en mí sobre los procesos relacionados a estas, así como su capacidad para generar valor.
+
+He de mencionar también mi interés desde pequeño por la computación en general, que se ha ido actualizando con el paso del tiempo y se ve plasmado en la creación, por ejemplo, de este sitio web. Es un campo en el cual difruto aprender.
+
+Es por ello que, actualmente, mantengo un interés por desarrollar mis habilidades en áreas de análisis de datos, buscando aportar valor y generar ideas en alguna organización. Tal como mencioné, creo tener habilidades requeridas y creo yo, aún más importante, la afición al uso de herramientas de software así como de programación.
+
+
+
+
+
+
 
 Sobre mi experiencia
 ------
