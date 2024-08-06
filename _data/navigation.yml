@@ -6,8 +6,8 @@ main:
   - title: "Proyectos"
     url: /proyectos/    
 
-  - title: "Cursos"
-    url: /cursos/    
+  - title: "Material"
+    url: /material/    
     
   - title: "Portafolio"
     url: /portafolio/
