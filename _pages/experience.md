@@ -7,4 +7,8 @@ author_profile: true
 
 
 Data Analytics Intern en Ernst and Young (EY)
-![Fotitos](/images/ey_1.jpg)
+
+
+![ey_1](/images/ey_1.jpg)
+![ey_2](/images/ey_2.jpg)
+
