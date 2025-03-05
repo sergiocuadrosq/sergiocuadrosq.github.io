@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hola, mi nombre es Sergio Cuadros, estudiante de Economía en la Pontificia Universidad Católica del Perú [(PUCP)](https://www.pucp.edu.pe). Actualmente me encuentro en el noveno ciclo. Trabajo como Data Analytics Intern en [(EY)](https://www.ey.com/es_pe). He creado este sitio web para mostrar más sobre mí y publicar algunos trabajos que realizo en la universidad así como en cursos y también algunos proyectos personales.
+Hola, mi nombre es Sergio Cuadros, estudiante de Economía en la Pontificia Universidad Católica del Perú [(PUCP)](https://www.pucp.edu.pe). Actualmente me encuentro en el noveno ciclo. Trabajo como Practicante de Data y Conectividad en la [(Bolsa de Valores de Lima)](https://www.bvl.com.pe/), en el proceso de integración regional a través de [(nuam exchange)](https://www.nuamx.com/). Antes estuve en EY, como Data Analytics Intern. He creado este sitio web para mostrar más sobre mí y publicar algunos trabajos que realizo en la universidad así como en cursos y también algunos proyectos personales.
 
 Pueden contactarme a través de mi correo personal [(s.cuadros@pucp.edu.pe)](mailto:s.cuadros@pucp.edu.pe). También pueden contactarme a través de LinkedIn.
 
