@@ -23,8 +23,9 @@ Es por ello que, actualmente, mantengo un interés por desarrollar mis habilidad
 
 Sobre mi experiencia
 ------
+Actualmente he iniciado un nuevo puesto como Practicante de Data y Conectividad, apoyando a la Gerencia de Información de Mercados en el proceso de integración de las bolsas de Santiago, Colombia y Lima. 
 
-Actualmente me desempeño como Data Analytics Intern en [(EY)](https://www.ey.com/es_pe) en el área de Forensic and Integrity Risk Services como parte del Data Analytics Bootcamp 2024. Estoy desarrollando habilidades en tratamiento de datos financieros de empresas así como entendiendo el negocio en consultoría. 
+Me desempeñé como Data Analytics Intern en [(EY)](https://www.ey.com/es_pe) en el área de Forensic and Integrity Risk Services como parte del Data Analytics Bootcamp 2024. Luego tomé, en enero del 2025, la posición de Data Analytics Jr. Assistant. Estuve desarrollando habilidades en tratamiento de datos financieros de empresas así como entendiendo el negocio en consultoría. 
 
 
 Durante el verano del 2023 estuve trabajando para la PUCP, en la unidad de Intendencia de Aulas, como Auxiliar Administrativo. Nos encargábamos del mantenimiento de condiciones óptimas del mobiliario y de las aulas en sí, así como manejábamos la asignación de aulas para clases, seminarios, eventos, etc. Fui parte de un proyecto para mejorar el sistema de asignación, que databa de décadas pasadas, introduciendo nuevas variables así como el problema de las distancias en el campus. Más recientemente, durante el verano del 2024, fui parte de un intercambio cultural en USA, trabajando para SeaWorld Orlando, en Florida. Fue una grata experiencia en la cual mejoré mis habilidades de trabajo en equipo y de comunicación, especialmente en inglés.
