@@ -9,12 +9,6 @@ main:
   - title: "Material"
     url: /material/    
     
-  - title: "Portafolio"
-    url: /portafolio/
-        
-  - title: "Blog Posts"
-    url: /post/
-    
   - title: "CV"
     url: /cv/
     
