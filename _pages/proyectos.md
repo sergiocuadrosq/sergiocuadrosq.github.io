@@ -12,7 +12,7 @@ redirect_from:
 {% capture written_label %}'None'{% endcapture %}
 
 
-Accede a mi CV <u><a href="https://sergiocuadrosq.github.io/files/CV_Sergio_Cuadros.pdf">aquí</a></u>: 
+Aún no he descrito mis proyectos, pero puedes encontrar algunos en mi perfil en GitHub <u><a href="https://github.com/sergiocuadrosq">aquí</a></u>: 
 <br/>
 
 :)
